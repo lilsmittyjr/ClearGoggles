@@ -1,0 +1,2 @@
+# ClearGoggles
+betterdiscord theme background
