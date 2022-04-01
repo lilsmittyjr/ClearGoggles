@@ -1,14 +1,13 @@
 /**
 * @name ClearlyAnime
-* @version Auto Update
+* @version 1.0.1
 * @description ClearlyAnime, its clearly an anime theme! - Based on the ClearVision theme
 * @author lionbeard
-* @invite 
+* @invite https://discord.gg/SRwp75gZMf
 * @Source https://github.com/ClearVision/ClearVision-v6
 * @website https://betterdiscord.app/theme/ClearVision
 */
 @import url("https://clearvision.gitlab.io/v6/main.css");
-@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC');
 @import url('https://fonts.googleapis.com/css2?family=Send+Flowers');
 :root {
@@ -86,18 +85,4 @@
 --bd-blue: #2780e6;
 --bd-blue-hover: #1e63b3;
 --bd-blue-active: #1e63b3;
---rs-small-spacing: 2px;
---rs-medium-spacing: 5px;
---rs-large-spacing: 5px;
---rs-small-width: 5px;
---rs-medium-width: 5px;
---rs-large-width: 5px;
---rs-avatar-shape: 0%;
---rs-online-color: #0FB52EFF;
---rs-idle-color: #FABF38FF;
---rs-dnd-color: #982929FF;
---rs-offline-color: #000000FF;
---rs-streaming-color: #0DFFE4FF;
---rs-invisible-color: #747f8d;
---rs-phone-visible: block;
 }
